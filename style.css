@@ -6,11 +6,8 @@ html, body {
 }
 
 h2 {
-  color: #5997d9;
-}
-
-p {
-  color: #5997d9;
+  color: white;
+  /* color: #5997d9; */
 }
 
 .search-button {
@@ -46,7 +43,7 @@ p {
 }
 
 .saat {
-  top: 44.2%;
+  top: 44.8%;
   right: -20.5%;
   opacity: 50%;
 }
